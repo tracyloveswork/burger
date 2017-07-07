@@ -26,7 +26,7 @@ router.post("/", function(req, res) {
     res.redirect("/");
   });
 });
-
+// Update
 router.put("/:id", function(req, res) {
   var condition = "id = " + req.params.id;
 
