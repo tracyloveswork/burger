@@ -1,19 +1,18 @@
-li {
-  padding: 5px;
-  margin: 5px;
-  background: #faebd7;
+body {
+    background: url(/assets/img/imageBurger.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
-.label {
-  font-weight: bold;
+h1 {
+	font-size: 400%;
+	font-family: 'Alfa Slab One';
+	font-weight: normal;
+	text-align: center;
+	color: white;
+	margin-bottom: 20px;
 }
 
-.create-update-form {
-  padding: 5px;
-  margin: 5px;
-  background: aqua;
-}
-
-.form-group {
-  margin-bottom: 5px;
+h2 {
+	color: white !important;
 }
